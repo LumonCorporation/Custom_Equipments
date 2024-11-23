@@ -3,7 +3,7 @@
 <h1> Custom Equipments </h1>
 Добавляет броню, основанную на компонентах и атрибутах<br><br>
 
-![Banner](https://i.imgur.com/yHBiGbT.png)<br>
+![Banner](https://github.com/LumonCorporation/Custom_Equipments/blob/main/files/Custom_Equipments.png)<br>
 
 
 
